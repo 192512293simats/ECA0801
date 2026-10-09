@@ -37,4 +37,4 @@ This repository contains MATLAB simulations for three experiments related to Ana
 B.E. Electronics and Communication Engineering (ECE)
 
 ## Subject
-Analog and Digital Communication
+ECA0801 - Analog and Digital Communication
