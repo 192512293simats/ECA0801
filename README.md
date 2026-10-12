@@ -1,4 +1,4 @@
-[README_updated.md](https://github.com/user-attachments/files/33326829/README_updated.md)
+(https://github.com/user-attachments/files/33326829/README_updated.md)
 # ECA0801 - Analog and Digital Communication
 
 This repository contains MATLAB simulations for **20 experiments**
